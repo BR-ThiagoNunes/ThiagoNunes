@@ -9,6 +9,8 @@
 
 - 🌱 E também fiz faculdade de Processos Gerenciais. **Faculdade UNIPLAN-DF**
 
+- 🌱 Tenho boa comunicação, relação interpessoal, autoconfiança, habilidades de gestão, habilidades contábeis e trabalhistas e facilidade no aprendizado(Auto-didata)
+
 - 🌱 Tenho conhecimento intermediario em Inglês e estou cursando 3º semestre de Espanhol.
 
 - 📫 Como me encontrar: **t-hiago@hotmail.com**
