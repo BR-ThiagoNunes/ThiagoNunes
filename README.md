@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Gestão em TI, Python, HTML, Java Script e Plataforma OutSystem.**
 
-- 👯 Estou fazendo faculdade de Analise e Desenvolvimento de Sistemas. **Faculdade SENAC-DF**
+- 🌱 Estou fazendo faculdade de Analise e Desenvolvimento de Sistemas. **Faculdade SENAC-DF**
 
 - 🌱 E também fiz faculdade de Processos Gerenciais. **Faculdade UNIPLAN-DF**
 
