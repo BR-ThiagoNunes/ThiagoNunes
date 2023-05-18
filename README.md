@@ -13,6 +13,8 @@
 
 - 🌱 Tenho conhecimento intermediario em Inglês e estou cursando 3º semestre de Espanhol.
 
+- 🌱 Também gosto de fazer trilhas, pedalar e cozinhar! <i class='far fa-grin-alt'></i>
+
 - 📫 Como me encontrar: **t-hiago@hotmail.com**
 
 <h3 align="left">Me encontre em:</h3>
