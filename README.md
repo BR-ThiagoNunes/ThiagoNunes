@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou a frente da empresa Chaveiro Nunes, desde 1997, atuando como chaveiro residencial e automotivo e nas principais tomadas de decisões como gerenciamento, administrativo, contratação, compras, fluxo de caixa, entrada e saída de mercadorias e precificação. [Chaveiro Nunes](www.chaveironunesdf.com.br)
 
-- 🌱 Atualmente estou aprendendo **Gestão em TI, Python, HTML, Java Script e Plataforma OutSystem.**
+- 🌱 No momento estou aprendendo **Gestão em TI, Python, HTML, Java Script e Plataforma OutSystem.**
 
 - 🌱 Estou fazendo faculdade de Analise e Desenvolvimento de Sistemas. **Faculdade SENAC-DF**
 
